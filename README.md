@@ -1,2 +1,2 @@
 # Real-Time-Organ-Blood-Donation-Matching-Platform
-Timely access to matching organ or blood donors remains a critical healthcare challenge. Our solution is a smart platform that connects recipients with suitable donors using real-time medical compatibility data, geolocation, and urgency-based prioritization.
+Timely access to matching organ or blood donors remains a critical healthcare challenge. Our solution is a smart platform that connects recipients with suitable donors using real-time medical compatibility data, geolocation, and urgency-based prioritization. It aims to save lives by enabling faster, safer, and more accessible transplants and transfusions.
